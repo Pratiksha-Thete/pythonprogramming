@@ -1,0 +1,5 @@
+2025-01-10 21:20:52,964 - ERROR - librarymanagement.py:104 - Invalid choice. Please choose between 1 and 4.
+Traceback (most recent call last):
+  File "c:\Users\pratiksha\OneDrive\Desktop\pythonprogramming\librarymanagement.py", line 101, in main
+    raise ValueError("Invalid choice. Please choose between 1 and 4.")
+ValueError: Invalid choice. Please choose between 1 and 4.
