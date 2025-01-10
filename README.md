@@ -1,7 +1,5 @@
 Mini-Project Alert: Library Management System Log Tracker 🚀
 
-Looking to apply and sharpen your skills in logging, exception handling, and file management? Here’s a hands-on mini-project designed to help students or enthusiasts turn theoretical concepts into practical solutions!
-
 🎯 Project Overview:
 
 Develop a simple Library Management System where users can:
